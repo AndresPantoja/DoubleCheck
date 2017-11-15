@@ -1,0 +1,19 @@
+{
+  "name": "doublecheck",
+  "version": "1.0.0",
+  "description": "Chatbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresPantoja/DoubleCheck.git"
+  },
+  "author": "Andrés Pantoja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndresPantoja/DoubleCheck/issues"
+  },
+  "homepage": "https://github.com/AndresPantoja/DoubleCheck#readme"
+}
