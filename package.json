@@ -1,5 +1,5 @@
 {
-  "name": "samplebot",
+  "name": "doublecheck",
   "version": "1.0.0",
   "description": "Chatbot",
   "main": "app.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fakerabbit/samplebot.git"
+    "url": "git+https://github.com/AndresPAntoja/DoubleCheck.git"
   },
-  "author": "Mirko Justiniano",
+  "author": "Andres Pantoja",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fakerabbit/samplebot/issues"
+    "url": "https://github.com/AndresPantoja/DoubleCheck/issues"
   },
-  "homepage": "https://github.com/fakerabbit/samplebot#readme",
+  "homepage": "https://github.com/AndresPantoja/DoubleCheck#readme",
   "dependencies": {
     "apiai": "^4.0.3",
     "body-parser": "^1.18.2",
