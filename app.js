@@ -333,7 +333,7 @@ request.on('response', function(response) {
 	if(response){
 		if (result){
 			const fulfilment = result.fulfilment;
-			if(fulfilment&&fulfilment.speech&&fulfilment.speech.length){
+			if(fulfilment&&fulfilment.speech&&fulfilment.speech.length>0){
 				sendTextMessage(senderID,fulfilment.speech);
 			}
 		}
